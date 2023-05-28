@@ -11,7 +11,7 @@ body{
 
 #testimonial-grid-container{
     padding: 5% 3%;
-    /*top and left padding*/
+    
     
 }
 
@@ -23,7 +23,7 @@ body{
     background-color: #7541c8;
     position: relative;
     z-index: 0;
-    /*to apply z-index, you must have position element already applied*/
+    
 
 }
 
@@ -99,7 +99,7 @@ body{
     #testimonial-grid-container{
         max-width: 1440px;
         margin: 0 auto;
-        /*https://www.geeksforgeeks.org/how-does-auto-property-work-in-margin0-auto-in-css/*/
+        
     }
     #testimonial-5{
         flex-basis: 20%;
